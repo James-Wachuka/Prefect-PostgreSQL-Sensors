@@ -1,7 +1,6 @@
 # Prefect PostgreSQL Sensors
 
 [![PyPI version](https://badge.fury.io/py/prefect-postgres-sensors.svg)](https://badge.fury.io/py/prefect-postgres-sensors)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Downloads](https://img.shields.io/pypi/dm/prefect-postgres-sensors.svg)](https://pypi.org/project/prefect-postgres-sensors/)
 [![Stars](https://img.shields.io/github/stars/James-Wachuka/prefect-postgres-sensors.svg?style=social)](https://github.com/James-Wachuka/prefect-postgres-sensors/stargazers)
 
