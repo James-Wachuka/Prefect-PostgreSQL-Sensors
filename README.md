@@ -23,7 +23,7 @@ database.
 Install the package via pip:
 
 ```
-pip install prefect_postgres_sensors
+pip install prefect-postgres-sensors
 ```
 
 ## Usage
