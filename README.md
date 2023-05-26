@@ -97,7 +97,7 @@ This package was inspired by the need to monitor PostgreSQL databases using Pref
 
 ## Support
 
-For any questions or issues, please open an [issue](https://github.com/James-Wachuka/prefect-postgres-sensors/issues) on GitHub.
+For any questions or issues, please open an [issue](https://github.com/James-Wachuka/Prefect-PostgreSQL-Sensors/issues) on GitHub.
 
 ## Related Projects
 
