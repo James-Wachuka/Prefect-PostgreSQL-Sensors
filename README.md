@@ -1,8 +1,9 @@
 # Prefect PostgreSQL Sensors
 
 [![PyPI version](https://badge.fury.io/py/prefect-postgres-sensors.svg)](https://badge.fury.io/py/prefect-postgres-sensors)
-[![Downloads](https://img.shields.io/pypi/dm/prefect-postgres-sensors.svg)](https://pypi.org/project/prefect-postgres-sensors/)
-[![Stars](https://img.shields.io/github/stars/James-Wachuka/Prefect-PostgreSQL-Sensors.svg?style=social)](https://github.com/James-Wachuka/Prefect-PostgreSQL-Sensors/stargazers)
+[![downloads](https://img.shields.io/pypi/dm/prefect-postgres-sensors==0.6.0.svg)](https://pypi.org/project/prefect-postgres-sensors==0.6.0)
+[![stars](https://img.shields.io/github/stars/james-wachuka/Prefect-PostgreSQL-Sensors.svg?style=social)](https://github.com/james-wachuka/james-wachuka/stargazers)
+
 
 
 The `prefect_postgres_sensors` package provides Prefect sensors for monitoring changes or conditions within a PostgreSQL database.
