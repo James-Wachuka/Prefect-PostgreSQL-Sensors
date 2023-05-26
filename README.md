@@ -2,8 +2,8 @@
 
 [![PyPI version](https://badge.fury.io/py/prefect-postgres-sensors.svg)](https://badge.fury.io/py/prefect-postgres-sensors)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://travis-ci.com/James-Wachuka/prefect-postgres-sensors.svg?branch=main)](https://travis-ci.com/James-Wachuka/prefect-postgres-sensors)
-[![Coverage Status](https://coveralls.io/repos/github/James-Wachuka/prefect-postgres-sensors/badge.svg?branch=main)](https://coveralls.io/github/James-Wachuka/prefect-postgres-sensors?branch=main)
+[![Build Status](https://travis-ci.com/James-Wachuka/Prefect-PostgreSQL-Sensors.svg?branch=main)](https://travis-ci.com/James-Wachuka/Prefect-PostgreSQL-Sensors)
+[![Coverage Status](https://coveralls.io/repos/github/James-Wachuka/Prefect-PostgreSQL-Sensors/badge.svg?branch=main)](https://coveralls.io/github/James-Wachuka/Prefect-PostgreSQL-Sensors?branch=main)
 [![Downloads](https://img.shields.io/pypi/dm/prefect-postgres-sensors.svg)](https://pypi.org/project/prefect-postgres-sensors/)
 [![Stars](https://img.shields.io/github/stars/James-Wachuka/prefect-postgres-sensors.svg?style=social)](https://github.com/James-Wachuka/prefect-postgres-sensors/stargazers)
 
