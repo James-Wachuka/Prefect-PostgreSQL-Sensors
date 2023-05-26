@@ -1,7 +1,7 @@
 # Prefect PostgreSQL Sensors
 
-[![PyPI version](https://badge.fury.io/py/prefect-postgres-sensors.svg)](https://badge.fury.io/py/prefect-postgres-sensors)
-[![downloads](https://img.shields.io/pypi/dm/prefect-postgres-sensors==0.6.0.svg)](https://pypi.org/project/prefect-postgres-sensors==0.6.0)
+[![prefect-postgres-sensors](https://badge.fury.io/py/prefect-postgres-sensors.svg)](https://badge.fury.io/py/prefect-postgres-sensors)
+[![downloads](https://img.shields.io/pypi/dm/prefect-postgres-sensors.svg)](https://pypi.org/project/prefect-postgres-sensors)
 [![stars](https://img.shields.io/github/stars/james-wachuka/Prefect-PostgreSQL-Sensors.svg?style=social)](https://github.com/james-wachuka/james-wachuka/stargazers)
 
 
