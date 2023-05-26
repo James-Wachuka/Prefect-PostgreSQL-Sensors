@@ -3,11 +3,11 @@ from prefect_postgres_sensors.sensors.postgres_sensors_copy import TableUpdatedS
 
 # Define your PostgreSQL connection parameters
 conn_params = {
-    "host": "localhost",
+    "host": " ",
     "port": 5432,
-    "database": "kafka",
-    "user": "data_eng",
-    "password": "data_eng",
+    "database": " ",
+    "user": " ",
+    "password": " ",
 }
 
 @task
